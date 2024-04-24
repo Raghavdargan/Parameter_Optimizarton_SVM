@@ -1,6 +1,6 @@
 # Assignment -  Parameter Optimization SVM
-Completed By: Divyam Malik  
-Roll No. 102103142
+Completed By: Raghav Dargan  
+Roll No. 102103042
 ---
 
 ## Result Table
